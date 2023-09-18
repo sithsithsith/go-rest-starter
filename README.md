@@ -1,2 +1,3 @@
 # go-rest-starter
-Boilerplate for go rest apis
+
+Boilerplate for building `RESTFUL API` with golang
